@@ -1,0 +1,11 @@
+{
+  "SHOPIFY_STORE_URL": "yourshop.myshopify.com",
+  "SHOPIFY_API_KEY": "your api key",
+  "SHOPIFY_API_PASSWORD": "your api password",
+  "SHOPIFY_API_SAHRED_SECRET": "your api shared secret",
+  "SHOPIFY_THEME_ID": {
+    "development": "theme id for your  development theme",
+    "production": "theme id for your production theme"
+  }
+
+}
