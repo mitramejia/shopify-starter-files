@@ -40,11 +40,7 @@ gulp.task 'deploy', ->
 # Watch for changes on theme files, uploads those changes to the development theme and reloads the browser
 gulp.task 'watch-shopify', ->
   watch(localThemeDir)
-  .pipe(gulpShopify(apiKey, apiPassword, storeUrl, themeId.development)
-  ).pipe livereload(
-    start: true
-    quiet: true
-    )
+  .pipe(gulpShopify(apiKey, apiPassword, storeUrl, themeId.development))
 
 # Default gulp action when gulp is run
 gulp.task 'default', [ 'watch-shopify' ]

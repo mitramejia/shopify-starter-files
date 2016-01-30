@@ -1,0 +1,25 @@
+{
+  "name": "shopify-starter-files",
+  "version": "0.1.0",
+  "description": "A Shopify Store",
+  "author": "Mitra Mejia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitramejia/shopify-starter-files.git"
+  },
+  "keywords": [
+    "shopify",
+    "gulp"
+  ],
+  "bugs": {
+    "url": "https://github.com/mitramejia/shopify-starter-files"
+  },
+  "homepage": "https://github.com/mitramejia/shopify-starter-files#readme",
+  "devDependencies": {
+    "check-branch": "0.0.3",
+    "growl": "^1.7.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-util": "^3.0.7"
+  }
+}
