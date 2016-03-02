@@ -1,7 +1,7 @@
 {
   "name": "shopify-starter-files",
   "version": "0.1.0",
-  "description": "A Shopify Store",
+  "description": "Starter files to develop on any Shopify Store",
   "author": "Mitra Mejia",
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
     "gulp": "^3.9.1",
     "gulp-watch": "^4.3.5",
     "gulp-livereload": "^3.8.1",
+    "gulp-shopify-upload": "^2.0.0",
     "gulp-plumber": "^1.0.1",
     "gulp-util": "^3.0.7"
   }
