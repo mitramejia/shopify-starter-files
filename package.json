@@ -19,6 +19,7 @@
     "check-branch": "0.0.3",
     "growl": "^1.7.0",
     "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.5",
     "gulp-livereload": "^3.8.1",
     "gulp-plumber": "^1.0.1",
     "gulp-util": "^3.0.7"
